@@ -4,7 +4,7 @@
 
 
 ## Intro
-### Current Version: 2023.01
+
 Welcome to our web hacking and bug bounty hunting resource repository! A curated collection of web hacking tools, tips, and resources is available here. We hope that this repository will be a valuable resource for you as you work to secure the internet and make it a safer place for everyone, whether you're a seasoned bug bounty hunter or just getting started.
 
 We understand that there are more resources other than the ones we have listed and we hope to cover more resources in the near future!<br>
