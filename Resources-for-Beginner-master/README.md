@@ -12,12 +12,17 @@ We understand that there are more resources other than the ones we have listed a
 If you are interested in learning about top bug bounty hunters in the community check out my [Live Recon VODs](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAkqBkzFaOxqs3L66z2n8LA).
 
 
-## NahamSec's Personal Resource:
+## Personal Resource:
 I have also put together my own resource:
 
-- [NahamSec's Bug Bounty Course with 100+ Labs](https://app.hackinghub.io/hubs/nahamsec-bug-bounty-course)
+
 - [Nahamsec on YouTube](https://www.youtube.com/NahamSec) 
-- [Nahamsec on Twitch](https://www.twitch.tv/nahamsec)
+- [InsiderPhD on YouTube](https://www.youtube.com/InsiderPhD) 
+- [NetworkChuck on YouTube](https://www.youtube.com/NetworkChuck)
+- [portswigger on web lab](https://portswigger.net/web-security)
+- [hackthebox on web lab and Cybersecurity Courses](https://academy.hackthebox.com/)
+- [Network](https://www.cisco.com/,https://netacad.com/)
+- [Network](https://www.offsec.com/courses/pen-103/)
 
 ---
 ## Table of Contents
@@ -36,5 +41,4 @@ I have also put together my own resource:
 - [Mindset & Mental Health](/assets/health.md)
 
 ---
-If you have more questions or suggestions, check out [NahamSec's Discord](https://discord.gg/9jZxjQ5)!<br>
 
